@@ -15,7 +15,7 @@ if (key === code[index]){
 
 
   if (index === code.length){
-    alert("yay!");
+    alert("Hurray!");
 
     index = 0;
   }
