@@ -8,7 +8,7 @@ const key = parseInt(e.detail || e.which);
 
 if (key === code[index]){
   index++;
-  console.log()
+  console.log(e.detail)
 
   if (index === code.length){
     alert("yay!");
