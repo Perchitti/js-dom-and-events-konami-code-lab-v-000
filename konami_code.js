@@ -23,4 +23,5 @@ if (key === code[index]){
 else {
   index = 0;
 }
+});
 }
